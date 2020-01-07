@@ -66,7 +66,10 @@ Data ware house 1 heure Edureka : https://www.youtube.com/watch?v=J326LIUrZM8
 [x] Google Analytics 
 
 ```
+Web analytics beginer 14 vidéos : https://www.youtube.com/playlist?list=PLEiEAq2VkUULPk73XBrYk_eJu9S3MGKcU
+Web Analytics for beginer 50 vidéos : https://www.youtube.com/playlist?list=RDQMu5GaGtPe6-Q
 Google analytics 15 vidéos : https://www.youtube.com/playlist?list=PLOXO3LDyaTEnT90LoZUqJOWit7czGXOBL
+Web analytics in hands of projet with R 6 vidéos : https://www.youtube.com/playlist?list=PLTgRMOcmRb3O9vnSFaFlH3IPgF5yHXXZ5
 
 
 ```

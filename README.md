@@ -69,6 +69,7 @@ Google analytics 15 vidéos : https://www.youtube.com/playlist?list=PLOXO3LDyaTE
 # 5-Utiliser Cloud 
 
 ```
+Introduction to Cloud 30 minutes : https://youtu.be/usYySG1nbfI
 Data analyst Google Cloud 50 vidéos :https://www.youtube.com/playlist?list=PLIivdWyY5sqKBNhDaKHtyfPfcF9mYGLug
 ```
 

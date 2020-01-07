@@ -68,7 +68,9 @@ Google analytics 15 vidéos : https://www.youtube.com/playlist?list=PLOXO3LDyaTE
 ```
 # 5-Utiliser Cloud 
 
-[x] Data analyst Google Cloud 50 vidéos :https://www.youtube.com/playlist?list=PLIivdWyY5sqKBNhDaKHtyfPfcF9mYGLug
+```
+Data analyst Google Cloud 50 vidéos :https://www.youtube.com/playlist?list=PLIivdWyY5sqKBNhDaKHtyfPfcF9mYGLug
+```
 
 # 6-Aide à la décision 
 ###       Data visualisation 

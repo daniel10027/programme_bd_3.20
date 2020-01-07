@@ -12,7 +12,7 @@
 ```
 
 [x] R PROGRAMMING 
-
+ 
 ```
 
 R BootCamp 83 videos:  https://www.youtube.com/watch?v=-KFlKVUQYK0&list=PLJts6TmUG5zicV1j9xjudA-atGriWiMD-
@@ -56,6 +56,58 @@ Azure data lake 46 videos: https://www.youtube.com/watch?v=26Jr_bGgrDo&list=PLWP
 Data ware house & bisness inteligence 27 video edureka: https://www.youtube.com/watch?v=J326LIUrZM8&list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX
 Data ware house 1 heure Edureka : https://www.youtube.com/watch?v=J326LIUrZM8
 ```
+
+# 4-Web Analytics
+
+[x] Google Analytics 
+
+```
+Google analytics 15 vidéos : https://www.youtube.com/playlist?list=PLOXO3LDyaTEnT90LoZUqJOWit7czGXOBL
+
+
+```
+# 5-Utiliser Cloud 
+
+[x] Data analyst Google Cloud 50 vidéos :https://www.youtube.com/playlist?list=PLIivdWyY5sqKBNhDaKHtyfPfcF9mYGLug
+
+# 6-Aide à la décision 
+###       Data visualisation 
+[x] Data visualisation with matplotlib:
+
+```
+```
+
+[x] Data visualisation with Seaborn:
+
+```
+```
+
+[x] Data visualisation with Bokeh
+
+```
+```
+
+###       Dashboard, Kpi
+
+[x] 
+
+# 7 Culture big data / Intelligence Artificielle 
+
+[x] Pratique du machine Learning 
+
+```
+```
+[x] Initiation au Deep Learning
+
+```
+```
+
+[x] Privacy RGPD
+
+```
+```
+
+
 
 
 

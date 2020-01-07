@@ -110,7 +110,10 @@ Bokeh data visualisation python 1h38 : https://youtu.be/fZ0mwqaQ6EE
 
 
 [x] Logiel Bi Analytics(Power bi, exel, tableau, Quickview
+
+```
 Introduction to Bisnesse Analyst 4 heure : https://youtu.be/4MIo5jv-WiI
+```
 
 # 7 Culture big data / Intelligence Artificielle 
 

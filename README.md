@@ -77,16 +77,25 @@ Data analyst Google Cloud 50 vidéos :https://www.youtube.com/playlist?list=PLIi
 [x] Data visualisation with matplotlib:
 
 ```
+Data visualisation with matplotlib 15 vidéo : https://www.youtube.com/playlist?list=PLqEbL1vopgvs1p90E3Ig_OTY08wBTCj9B
+Data visualisation with matplotlib 32 vidéo : https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
 ```
 
 [x] Data visualisation with Seaborn:
 
 ```
+Data visualisation with Seaborn 15 vidéos : https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d
+Data visualisation with Seaborn 32 vidéos : https://www.youtube.com/playlist?list=PLE50-dh6JzC7X8VFX40yoIXnhctF2bR8F
+Data visualisation with Seaborn introduction 20 minutes : https://youtu.be/TLdXM0A7SR8
 ```
 
 [x] Data visualisation with Bokeh
 
 ```
+Hands of Data visualisation with bokeh 8 vidéos : https://www.youtube.com/playlist?list=PLTgRMOcmRb3PK97gvYI3_Hi-bxTDEQeOL
+Bokey data visualisation 33 minutes : https://youtu.be/2TR_6VaVSOs
+Bokeh data visualisation python 1h38 : https://youtu.be/fZ0mwqaQ6EE
+
 ```
 
 ###       Dashboard, Kpi

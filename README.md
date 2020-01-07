@@ -54,6 +54,7 @@ Mongodb tutorial for beginer 23 videos : https://www.youtube.com/watch?v=GtD93tV
 ```
 Azure data lake 46 videos: https://www.youtube.com/watch?v=26Jr_bGgrDo&list=PLWPirh4EWFpGythJYVMF1Wtuts9fVmlyI
 Data ware house & bisness inteligence 27 video edureka: https://www.youtube.com/watch?v=J326LIUrZM8&list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX
+Data ware house 1 heure Edureka : https://www.youtube.com/watch?v=J326LIUrZM8
 ```
 
 

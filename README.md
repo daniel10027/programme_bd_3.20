@@ -107,15 +107,23 @@ Bokeh data visualisation python 1h38 : https://youtu.be/fZ0mwqaQ6EE
 [x] Pratique du machine Learning 
 
 ```
+Introduction au Machine Learning 50 minutes :https://youtu.be/BuezNNeOGCI
+Machine learning full course 7 heure : https://youtu.be/9f-GarcDY58
 ```
 [x] Initiation au Deep Learning
 
 ```
+What os Deep Learning 25min : https://youtu.be/dafuAz_CV7Q
+Mit introduction au Deep Learning 20 Vidéos : https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+Deep Learning using TensorFlow 1h30 : https://youtu.be/EHV6kZJN5JQ
+Introduction to Deep Learning with Keras and TensorFlow 1h30 : https://youtu.be/45MbmHQ5iMY
+
 ```
 
 [x] Privacy RGPD
 
 ```
+Conférence sur le RGPD & Cybersecurité 1h30 : https://youtu.be/AuDbfhVC5bY
 ```
 
 

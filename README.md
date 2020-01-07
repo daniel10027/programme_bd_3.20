@@ -3,7 +3,11 @@
 
 
 # 1-Statistiques
-
+```
+Statistiques & Data analyst 1h10 : https://youtu.be/XbHeCL_8UhA
+Statistiques and Data analyst in matlab 13 Vidéos :
+https://www.youtube.com/playlist?list=PLmUd5Zvaz17QSCaB0b4tLwmTBzFIHKQFO
+```
 # 2-Apprendre des langages de programmation
 [x] Python
 
@@ -101,7 +105,9 @@ Bokeh data visualisation python 1h38 : https://youtu.be/fZ0mwqaQ6EE
 
 ###       Dashboard, Kpi
 
-[x] 
+
+[x] Logiel Bi Analytics(Power bi, exel, tableau, Quickview
+Introduction to Bisnesse Analyst 4 heure : https://youtu.be/4MIo5jv-WiI
 
 # 7 Culture big data / Intelligence Artificielle 
 

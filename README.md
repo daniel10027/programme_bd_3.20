@@ -143,7 +143,8 @@ Conférence sur le RGPD & Cybersecurité 1h30 : https://youtu.be/AuDbfhVC5bY
 
 
 
-
+# Liens utiles 
 ``` 
 hadoop installation ubuntu: https://tecadmin.net/setup-hadoop-on-ubuntu/
+R studio ubuntu 64 bit: https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.5033-amd64.deb
 ```

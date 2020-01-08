@@ -144,3 +144,6 @@ Conférence sur le RGPD & Cybersecurité 1h30 : https://youtu.be/AuDbfhVC5bY
 
 
 
+``` 
+hadoop installation ubuntu: https://tecadmin.net/setup-hadoop-on-ubuntu/
+```
